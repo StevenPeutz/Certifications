@@ -1,11 +1,13 @@
 # Certifications
 
-Certifications and diplomas divided into 4 areas.  
+Certifications and diplomas divided into 5 areas.  
 
 A. Statistics, Python & SQL. 
 
 B. Quantitative UX research, Psychology & Online Marketing. 
 
-C. Cybersecurity & Data Privacy. 
+C. Project Management & Soft Skills
 
-D. Miscellaneous. 
+D. Cybersecurity & Data Privacy. 
+
+E. Miscellaneous. 
